@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#Displays only the listening sockets and the name of the program each socket
+#belongs to
+netstat -a -p
